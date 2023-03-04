@@ -8,9 +8,7 @@ In this project, we create a big square board with lots of tiny square boxes on 
 * CSS3
 * JavaScript
 
-# Project also on my YouTube
-
-* Please visit :: *https://youtu.be/u42StolrRl4*
+# Project also on my YouTube 👉 https://youtu.be/u42StolrRl4
 
 # Have a look
 
