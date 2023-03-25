@@ -14,4 +14,4 @@ In this project, we create a big square board with lots of tiny square boxes on 
 
 ![h2](https://user-images.githubusercontent.com/121751224/216785865-0a53a443-bbba-4d12-be6e-f724629ff224.png)
 
-# click on this : https://kushvahasumit.github.io/HoverBoard-Effect/ 
+# click on this (live link) : https://kushvahasumit.github.io/HoverBoard-Effect/ 
